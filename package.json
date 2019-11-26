@@ -3,8 +3,8 @@
   "version": "1.0.2",
   "description": "",
   "bin": {
-    "pincuisine":"./index.js",
-    "pinc":"./index.js"
+    "pincuisine": "./index.js",
+    "pinc": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
